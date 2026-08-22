@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cipherium</string>
+    <string name="status_default">Статус: ожидание разрешений</string>
+    <string name="start_button">Запустить</string>
+</resources>
